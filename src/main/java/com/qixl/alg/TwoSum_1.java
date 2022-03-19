@@ -1,7 +1,7 @@
 package com.qixl.alg;
 
 /**
- * Created by qixl on 2022/3/19.
+ * 1. 两数之和 .
  */
 public class TwoSum_1 {
 
