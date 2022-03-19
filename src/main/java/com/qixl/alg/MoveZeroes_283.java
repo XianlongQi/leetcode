@@ -7,10 +7,10 @@ package com.qixl.alg;
  * @Description TODO
  * @createTime 2022年03月19日 17:22:00
  */
-public class MoveZeroes_238 {
+public class MoveZeroes_283 {
 
     public static void main(String[] args) {
-        MoveZeroes_238 mz = new MoveZeroes_238();
+        MoveZeroes_283 mz = new MoveZeroes_283();
         mz.moveZeroes(new int[]{0,0,0,9});
     }
 //    public void moveZeroes(int[] nums) {
