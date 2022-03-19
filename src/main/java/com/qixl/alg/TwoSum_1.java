@@ -13,7 +13,6 @@ public class TwoSum_1 {
     }
   }
 
-
   public int[] twoSum(int[] nums, int target) {
     if(nums.length < 2){
       return null;
